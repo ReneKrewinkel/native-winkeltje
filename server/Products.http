@@ -1,0 +1,10 @@
+POST http://192.168.1.224:3002/shoppingcart
+Content-Type: application/json
+
+{
+      "id": 400,
+      "value": {
+        "id": 1, "name": "Shopping Cart"
+      }
+}
+
